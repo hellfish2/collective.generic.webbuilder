@@ -34,7 +34,11 @@ Want an idea of what it can generate, see `This example <https://github.com/maki
 
 `Zoom <https://raw.github.com/collective/collective.generic.webbuilder/master/docs/cgwb.png>`_
 
-[![Coverage Status](https://coveralls.io/repos/hellfish2/collective.generic.webbuilder/badge.png)](https://coveralls.io/r/hellfish2/collective.generic.webbuilder)
+
+.. image:: https://coveralls.io/repos/hellfish2/collective.generic.webbuilder/badge.png
+  :target: https://coveralls.io/r/hellfish2/collective.generic.webbuilder
+
+
 
 
 Installation
