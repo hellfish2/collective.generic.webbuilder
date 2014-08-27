@@ -1,3 +1,8 @@
+.. image:: https://travis-ci.org/hellfish2/collective.generic.webbuilder.svg?branch=master
+    :target: https://travis-ci.org/hellfish2/collective.generic.webbuilder
+.. image:: https://coveralls.io/repos/hellfish2/collective.generic.webbuilder/badge.png
+    :target: https://coveralls.io/r/hellfish2/collective.generic.webbuilder
+
 Introduction
 ============
 
@@ -33,10 +38,6 @@ Want an idea of what it can generate, see `This example <https://github.com/maki
 .. _cgwbthumb: https://raw.github.com/collective/collective.generic.webbuilder/master/docs/cgwb.png
 
 `Zoom <https://raw.github.com/collective/collective.generic.webbuilder/master/docs/cgwb.png>`_
-
-
-.. image:: https://coveralls.io/repos/hellfish2/collective.generic.webbuilder/badge.png
-  :target: https://coveralls.io/r/hellfish2/collective.generic.webbuilder
 
 
 
